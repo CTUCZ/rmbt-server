@@ -1,9 +1,12 @@
 RMBT Test Server
 ================
 
-> This project contains the RMBT Test Server for conducting measurements based on 
-  the RMBT protocol. Clients can communicate either directly via TCP sockets or based on 
-  the WebSocket protocol.
+This project contains the RMBT Test Server for conducting measurements based on 
+the RMBT protocol. Clients can communicate either directly via TCP sockets or based on 
+the WebSocket protocol.
+
+Source codes for backend of CTU-NetTest can be found temporarily here (RTR repository):
+* [open-rmbt](https://github.com/rtr-nettest/open-rmbt)
 
 Prerequisites
 -------------
@@ -150,6 +153,7 @@ Related materials
 Get in Touch
 ------------
 
+* [CTU-NetTest](https://nettest.cz) on the web
 * [RTR-Netztest](https://www.netztest.at) on the web
 
 
